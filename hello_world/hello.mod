@@ -1,0 +1,2 @@
+/home/fenix/0/dev/linux_kernel/hello_world/hello.o
+

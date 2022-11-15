@@ -1,0 +1,1 @@
+cmd_/home/fenix/0/dev/linux_kernel/rick_roll_device/rickroll.mod := { echo  /home/fenix/0/dev/linux_kernel/rick_roll_device/rickroll.o;  echo; } > /home/fenix/0/dev/linux_kernel/rick_roll_device/rickroll.mod

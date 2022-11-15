@@ -1,0 +1,1 @@
+cmd_/home/fenix/0/dev/linux_kernel/hello_world/Module.symvers := sed 's/\.ko$$/\.o/' /home/fenix/0/dev/linux_kernel/hello_world/modules.order | scripts/mod/modpost -m -a  -o /home/fenix/0/dev/linux_kernel/hello_world/Module.symvers -e -i Module.symvers   -T -

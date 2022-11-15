@@ -1,0 +1,1 @@
+cmd_/home/fenix/0/dev/linux_kernel/johannes/1/mymodule.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/fenix/0/dev/linux_kernel/johannes/1/mymodule.ko /home/fenix/0/dev/linux_kernel/johannes/1/mymodule.o /home/fenix/0/dev/linux_kernel/johannes/1/mymodule.mod.o;  true

@@ -1,0 +1,1 @@
+cmd_/home/fenix/0/dev/linux_kernel/rick_roll_device/rickroll.ko := ld -r  -m elf_x86_64  --build-id=sha1  -T scripts/module.lds -o /home/fenix/0/dev/linux_kernel/rick_roll_device/rickroll.ko /home/fenix/0/dev/linux_kernel/rick_roll_device/rickroll.o /home/fenix/0/dev/linux_kernel/rick_roll_device/rickroll.mod.o;  true

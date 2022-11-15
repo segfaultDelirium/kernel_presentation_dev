@@ -1,0 +1,2 @@
+/home/fenix/0/dev/linux_kernel/rick_roll/rickroll.o
+

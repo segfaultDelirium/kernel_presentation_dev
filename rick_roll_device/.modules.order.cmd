@@ -1,0 +1,1 @@
+cmd_/home/fenix/0/dev/linux_kernel/rick_roll_device/modules.order := {   echo /home/fenix/0/dev/linux_kernel/rick_roll_device/rickroll.ko; :; } | awk '!x[$$0]++' - > /home/fenix/0/dev/linux_kernel/rick_roll_device/modules.order
